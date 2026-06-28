@@ -13,3 +13,4 @@ plotly
 missingno
 geopandas
 folium
+sqlite-utils

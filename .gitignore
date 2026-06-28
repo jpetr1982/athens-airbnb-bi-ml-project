@@ -12,6 +12,9 @@ data/raw/
 data/processed/
 data/external/
 
+# SQLite database
+*.db
+
 # Models
 models/
 
