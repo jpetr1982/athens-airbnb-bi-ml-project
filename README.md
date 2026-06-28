@@ -215,4 +215,5 @@ Suggested slides:
 
 ## Author
 
-Zisis Mandanas
+Dimitris Petridis 
+(Data scientist and machine learning engineer)
