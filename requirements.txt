@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+openpyxl
+joblib
+jupyter
+notebook
+seaborn
+plotly
+missingno
+geopandas
+folium
